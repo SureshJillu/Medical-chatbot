@@ -73,7 +73,7 @@ python ui_chatbot.py
 ---
 
 ## 📸 Screenshots
-_Add Chainlit UI screenshots here_
+
 
 ### **1️⃣ Chatbot UI**
 ![Chatbot UI](screenshots/ss1.png)
