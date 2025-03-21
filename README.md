@@ -79,7 +79,7 @@ python ui_chatbot.py
 ![Chatbot UI](screenshots/ss1.png)
 
 
-![Loading Screen](screenshots/ss1.png)
+![Loading Screen](screenshots/ss2.png)
 
 
 
